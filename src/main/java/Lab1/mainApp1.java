@@ -4,6 +4,7 @@ package Lab1;
    Main application for Lab1 exercise */
 public class mainApp1 {
     public static void main(String[] args) {
+        System.out.println("Welcome to Scientific Calculator");
         System.out.println("Program ..Starting...");
         System.out.println("1 + 1 = "+2);
         int b = 2;
